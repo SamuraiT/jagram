@@ -8,13 +8,13 @@ Gem::Specification.new do |spec|
   spec.authors       = ["samurait"]
   spec.email         = ["t.yasukawa01@gmail.com"]
 
-  spec.summary       = "jagram is JApanese laguage proGRAM lanagugae."
-  spec.description   = "jagram is JApanese laguage proGRAM lanagugae."
+  spec.summary       = "jagram is JApanese proGRAMming language"
+  spec.description   = "jagram is made for japanese programming eduction purpose"
   spec.homepage      = "https://github.com/SamuraiT/jagram"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "https://github.com/SamuraiT/jagram"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/SamuraiT/jagram"
